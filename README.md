@@ -11,11 +11,11 @@ After graduating, I joined Infosys, a multinational corporation, where I worked 
 
 With a desire to further enhance my skills and knowledge, I pursued a Master’s in Applied Computing in Canada. I am now looking forward to landing a rewarding job that will allow me to continue expanding my horizons and developing my expertise.
 
-🔧 **Languages:** Java, Python, Javascript, C, C++, C#
+🌟 **Languages:** Python, Java, JS, C++, C
 
 🌐 **Web and App Development**
 
-Let's connect and create something awesome together! 🚀 #SoftwareDeveloper #FreshCoder
+Let's connect and create something fun! 
 
 ## 🌐 Socials:
 - [Instagram](https://www.instagram.com/shashankkannan/)
@@ -72,3 +72,5 @@ Let's connect and create something awesome together! 🚀 #SoftwareDeveloper #Fr
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankkannan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankkannan&layout=compact&theme=radical)
 
+## 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashankkannan&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
