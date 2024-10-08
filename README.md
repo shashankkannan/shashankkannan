@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hello! I'm Shashank Kannan, a passionate Computer Science Engineer based in Ontario, Canada. I specialize in Full Stack Development, Software Development, and Artificial Intelligence. I hold a Bachelor of Technology in Computer Science Engineering and a Master’s in Applied Computing.
+👋 Hello! I'm Shashank Kannan, a passionate Computer Science Engineer based in Ontario, Canada. I specialize in Full Stack Development, Software engineering, and AI. I hold a Bachelor of Technology in Computer Science Engineering and a Master’s in Applied Computing.
 
 With a solid foundation in both theoretical and applied aspects of computer science, I bring a unique blend of creativity and technical expertise to my work. Here you'll find examples of my projects, skills, and ways to get in touch with me. Feel free to explore my portfolio and learn more about my professional journey. I look forward to connecting with you!
 
