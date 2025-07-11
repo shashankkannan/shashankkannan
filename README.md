@@ -1,29 +1,63 @@
-👋 Hi there!
-💫 About Me:
-I'm Shashank Kannan, a Cloud-Native DevOps Engineer based in Toronto, Canada, with a strong foundation in Full Stack Development and Cloud Infrastructure. With nearly 3 years of industry experience and hands-on expertise in tools like Docker, Kubernetes, Terraform, Jenkins, and AWS, I’m passionate about building secure, automated, and scalable systems.
+## 👋 Hi there!
 
-My journey began in Chennai, India, and took shape at SASTRA University, where I completed my B.Tech in Computer Science. During my final year, I led projects at VRsavvy Tech, developing immersive VR and web-based solutions. I later worked at Infosys Ltd. as a DevOps Systems Engineer, collaborating with the Royal Bank of Scotland to streamline deployments and automate infrastructure—closing over 100+ deployment and infra-related tickets with high SLA compliance.
+### 💫 About Me
 
-Eager to deepen my technical foundation, I moved to Canada and earned a Master’s in Applied Computing (AI stream) from the University of Windsor. I've since built and deployed full CI/CD pipelines, automated Jenkins infrastructure with Groovy DSL, and architected containerized microservices using GitLab, Docker, and Kubernetes across both AWS and DigitalOcean.
+I'm **Shashank Kannan**, a **Cloud-Native DevOps Engineer** based in **Toronto, Canada**, with a strong foundation in **Full Stack Development** and **Cloud Infrastructure**.
 
-I enjoy building things that simplify developer workflows, boost system reliability, and integrate emerging tech like LLMs, GenAI, and real-time analytics into production-ready applications. Feel free to explore my GitHub, LinkedIn, or check out my portfolio to dive deeper into my work.
+With nearly **3 years of industry experience** and hands-on expertise in tools like **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **AWS**, I’m passionate about building **secure**, **automated**, and **scalable systems** that empower teams and streamline operations.
 
-🌟 Tech Stack
-**Languages:** Python • JavaScript (ES6+) • Java • SQL • Bash • C++ • C  
-**Web Frameworks:** Flask • Django • Express.js • Spring Boot  
-**Frontend:** React.js • Angular • TypeScript • HTML5 • CSS3 • Vite  
+My journey began in **Chennai, India**, and took shape at **SASTRA University**, where I completed my **B.Tech in Computer Science**. During my final year, I led projects at **VRsavvy Tech**, working on immersive VR and web-based solutions.
+
+I later joined **Infosys Ltd.** as a **DevOps Systems Engineer**, working with the **Royal Bank of Scotland** to:
+- Automate infrastructure provisioning
+- Streamline CI/CD pipelines
+- Close 100+ deployment and infra-related tickets with 95% SLA compliance
+
+To expand my skills further, I moved to Canada and earned a **Master’s in Applied Computing (AI stream)** from the **University of Windsor**.
+
+Since then, I’ve:
+- Deployed full CI/CD pipelines using Jenkins, GitLab CI, Docker, and Kubernetes
+- Automated Jenkins infrastructure using Groovy DSL
+- Built scalable microservices on **AWS** and **DigitalOcean**
+- Created full-stack apps integrating LLMs, GenAI, and real-time analytics
+
+Feel free to explore my work on [GitHub](https://github.com/shashankkannan), connect with me on [LinkedIn](https://www.linkedin.com/in/shatomb/), or check out my [Portfolio](https://shatomb.pythonanywhere.com/).
+
+---
+
+### 🌟 Tech Stack
+
+**Languages:**  
+Python • JavaScript (ES6+) • Java • SQL • Bash • C++ • C  
+
+**Web Frameworks:**  
+Flask • Django • Express.js • Spring Boot  
+
+**Frontend:**  
+React.js • Angular • TypeScript • HTML5 • CSS3 • Vite  
+
 **DevOps & Cloud:**  
-  ▸ AWS (EC2, S3, EKS, ECS, CloudFront, API Gateway)  
-  ▸ DigitalOcean • Jenkins • GitLab CI • GitHub Actions  
-  ▸ Terraform • Ansible • CloudFormation  
-  ▸ Docker • Kubernetes (EKS, DOKS) • Docker Swarm  
-**Databases:** MySQL • PostgreSQL • SQLite • MongoDB • Firebase  
-**Testing & Automation:** Postman • Newman • Selenium • Playwright • Jenkins DSL  
-**Monitoring & Tools:** Datadog • Cron • NGINX • SSH • Git  
-**OS & Systems:** Linux (Ubuntu, Debian, RHEL) • Windows  
+- **Cloud Providers:** AWS (EC2, S3, EKS, ECS, CloudFront, API Gateway), DigitalOcean  
+- **CI/CD Tools:** Jenkins • GitLab CI • GitHub Actions  
+- **IaC & Automation:** Terraform • Ansible • CloudFormation  
+- **Containers & Orchestration:** Docker • Kubernetes (EKS, DOKS) • Docker Swarm  
 
+**Databases:**  
+MySQL • PostgreSQL • SQLite • MongoDB • Firebase  
 
-Let's connect and create something fun! 
+**Testing & Automation:**  
+Postman • Newman • Selenium • Playwright • Jenkins DSL  
+
+**Monitoring & Tools:**  
+Datadog • Cron • NGINX • SSH • Git  
+
+**Operating Systems:**  
+Linux (Ubuntu, Debian, RHEL) • Windows  
+
+---
+
+### 🤝 Let's connect and create something fun!
+
 
 ## 🌐 Socials:
 - [Instagram](https://www.instagram.com/shashankkannan/)
