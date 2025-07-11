@@ -1,19 +1,27 @@
-## Hi there 👋
+👋 Hi there!
+💫 About Me:
+I'm Shashank Kannan, a Cloud-Native DevOps Engineer based in Toronto, Canada, with a strong foundation in Full Stack Development and Cloud Infrastructure. With nearly 3 years of industry experience and hands-on expertise in tools like Docker, Kubernetes, Terraform, Jenkins, and AWS, I’m passionate about building secure, automated, and scalable systems.
 
-# 💫 About Me:
-👋 Hello! I'm Shashank Kannan, a passionate Computer Science Engineer based in Ontario, Canada. I specialize in Full Stack Development, Software engineering, and AI. I hold a Bachelor of Technology in Computer Science Engineering and a Master’s in Applied Computing.
+My journey began in Chennai, India, and took shape at SASTRA University, where I completed my B.Tech in Computer Science. During my final year, I led projects at VRsavvy Tech, developing immersive VR and web-based solutions. I later worked at Infosys Ltd. as a DevOps Systems Engineer, collaborating with the Royal Bank of Scotland to streamline deployments and automate infrastructure—closing over 100+ deployment and infra-related tickets with high SLA compliance.
 
-With a solid foundation in both theoretical and applied aspects of computer science, I bring a unique blend of creativity and technical expertise to my work. Here you'll find examples of my projects, skills, and ways to get in touch with me. Feel free to explore my portfolio and learn more about my professional journey. I look forward to connecting with you!
+Eager to deepen my technical foundation, I moved to Canada and earned a Master’s in Applied Computing (AI stream) from the University of Windsor. I've since built and deployed full CI/CD pipelines, automated Jenkins infrastructure with Groovy DSL, and architected containerized microservices using GitLab, Docker, and Kubernetes across both AWS and DigitalOcean.
 
-I'm originally from Chennai, India, where I completed my schooling before moving to Thanjavur to pursue my Bachelor of Technology at SASTRA University. During my final year of college, I began working at a startup company called VRsavvy Tech. This experience taught me how to lead projects, manage deadlines, and navigate the complexities of project completion.
+I enjoy building things that simplify developer workflows, boost system reliability, and integrate emerging tech like LLMs, GenAI, and real-time analytics into production-ready applications. Feel free to explore my GitHub, LinkedIn, or check out my portfolio to dive deeper into my work.
 
-After graduating, I joined Infosys, a multinational corporation, where I worked with the Royal Bank of Scotland. In this role, I operated within an Agile SDLC, communicated with international clients and cross-functional teams, and meticulously documented various processes. My time at Infosys helped me become a highly professional individual.
+🌟 Tech Stack
+**Languages:** Python • JavaScript (ES6+) • Java • SQL • Bash • C++ • C  
+**Web Frameworks:** Flask • Django • Express.js • Spring Boot  
+**Frontend:** React.js • Angular • TypeScript • HTML5 • CSS3 • Vite  
+**DevOps & Cloud:**  
+  ▸ AWS (EC2, S3, EKS, ECS, CloudFront, API Gateway)  
+  ▸ DigitalOcean • Jenkins • GitLab CI • GitHub Actions  
+  ▸ Terraform • Ansible • CloudFormation  
+  ▸ Docker • Kubernetes (EKS, DOKS) • Docker Swarm  
+**Databases:** MySQL • PostgreSQL • SQLite • MongoDB • Firebase  
+**Testing & Automation:** Postman • Newman • Selenium • Playwright • Jenkins DSL  
+**Monitoring & Tools:** Datadog • Cron • NGINX • SSH • Git  
+**OS & Systems:** Linux (Ubuntu, Debian, RHEL) • Windows  
 
-With a desire to further enhance my skills and knowledge, I pursued a Master’s in Applied Computing in Canada. I am now looking forward to landing a rewarding job that will allow me to continue expanding my horizons and developing my expertise.
-
-🌟 **Languages:** Python, Java, JS, C++, C
-
-🌐 **Web and App Development**
 
 Let's connect and create something fun! 
 
