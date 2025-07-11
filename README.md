@@ -18,7 +18,7 @@ To expand my skills further, I moved to Canada and earned a **Master’s in Appl
 Since then, I’ve:
 - Deployed full CI/CD pipelines using Jenkins, GitLab CI, Docker, and Kubernetes
 - Automated Jenkins infrastructure using Groovy DSL
-- Built scalable microservices on **AWS** and **DigitalOcean**
+- Built scalable microservices on **AWS**, **GCP**, **AZURE** and **DigitalOcean**
 - Created full-stack apps integrating LLMs, GenAI, and real-time analytics
 
 Feel free to explore my work on [GitHub](https://github.com/shashankkannan), connect with me on [LinkedIn](https://www.linkedin.com/in/shatomb/), or check out my [Portfolio](https://shatomb.pythonanywhere.com/).
