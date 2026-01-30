@@ -2,24 +2,31 @@
 
 ### 💫 About Me
 
-I'm **Shashank Kannan**, a **Cloud-Native DevOps Engineer** based in **Toronto, Canada**, with a strong foundation in **Full Stack Development** and **Cloud Infrastructure**.
+I'm **Shashank Kannan**, a **Cloud-Native DevOps & Quality Engineer** based in **Toronto, Canada**, with a strong foundation in **Full Stack Development**, **Test Automation**, and **Cloud Infrastructure**.
 
-With nearly **3 years of industry experience** and hands-on expertise in tools like **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **AWS**, I’m passionate about building **secure**, **automated**, and **scalable systems** that empower teams and streamline operations.
+With nearly **3+ years of industry experience** and hands-on expertise in tools like **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **AWS**, **GitLab CI**, and **Playwright**, I’m passionate about building **secure**, **automated**, **scalable**, and **test-driven systems** that empower teams and streamline delivery.
 
-My journey began in **Chennai, India**, and took shape at **SASTRA University**, where I completed my **B.Tech in Computer Science**. During my final year, I led projects at **VRsavvy Tech**, working on immersive VR and web-based solutions.
+My journey began in **Chennai, India**, and took shape at **SASTRA University**, where I completed my **B.Tech in Computer Science**. During my final year, I led projects at **VRsavvy Tech**, working on immersive **VR and web-based solutions**.
 
-I later joined **Infosys Ltd.** as a **DevOps Systems Engineer**, working with the **Royal Bank of Scotland** to:
-- Automate infrastructure provisioning
-- Streamline CI/CD pipelines
-- Close 100+ deployment and infra-related tickets with 95% SLA compliance
+I later joined **Infosys Ltd.** as a **DevOps Systems Engineer**, working with the **Royal Bank of Scotland**, where I:
+- Automated infrastructure provisioning  
+- Streamlined CI/CD pipelines  
+- Closed **100+ deployment and infra-related tickets** with **95% SLA compliance**  
 
-To expand my skills further, I moved to Canada and earned a **Master’s in Applied Computing (AI stream)** from the **University of Windsor**.
+To expand my skills further, I moved to Canada and earned a **Master’s in Applied Computing (AI Stream)** from the **University of Windsor**.
 
-Since then, I’ve:
-- Deployed full CI/CD pipelines using Jenkins, GitLab CI, Docker, and Kubernetes
-- Automated Jenkins infrastructure using Groovy DSL
-- Built scalable microservices on **AWS**, **GCP**, **AZURE** and **DigitalOcean**
-- Created full-stack apps integrating LLMs, GenAI, and real-time analytics
+Currently, I work as a **Senior Quality Engineer at Royal Bank of Canada (RBC)**, where I:
+- Design and maintain **end-to-end automation frameworks** using **Playwright, Selenium, API testing, and Postman**  
+- Integrate **automation into CI/CD pipelines** using **GitHub Actions, Jenkins, and GitLab CI**  
+- Validate **microservices and cloud-native platforms** on **AWS and Kubernetes**  
+- Build quality gates for **regression, performance, and security testing**  
+- Collaborate closely with DevOps teams to ensure **test-driven, reliable releases at scale**  
+
+Across my journey, I’ve:
+- Deployed full **CI/CD pipelines** using Jenkins, GitLab CI, Docker, and Kubernetes  
+- Automated Jenkins infrastructure using **Groovy DSL**  
+- Built scalable microservices on **AWS**, **GCP**, **Azure**, and **DigitalOcean**  
+- Created full-stack apps integrating **LLMs, GenAI, and real-time analytics**  
 
 Feel free to explore my work on [GitHub](https://github.com/shashankkannan), connect with me on [LinkedIn](https://www.linkedin.com/in/shatomb/), or check out my [Portfolio](https://shatomb.pythonanywhere.com/).
 
